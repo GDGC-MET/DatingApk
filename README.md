@@ -1,4 +1,4 @@
-A# ❤️ Dating App
+# ❤️ Dating App
 
 A modern, feature-rich dating application built for Android, designed to help users connect with others in a meaningful way. This app focuses on smooth user interactions, robust chat functionality, and an intuitive user experience, ensuring seamless communication between users.
 
